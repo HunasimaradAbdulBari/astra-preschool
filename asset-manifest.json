@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/astra/static/css/main.0946ba87.css",
+    "main.js": "/astra/static/js/main.30a4a186.js",
+    "static/js/239.00bb352b.chunk.js": "/astra/static/js/239.00bb352b.chunk.js",
+    "static/js/977.7f5cd88d.chunk.js": "/astra/static/js/977.7f5cd88d.chunk.js",
+    "static/js/732.6cb5bcdf.chunk.js": "/astra/static/js/732.6cb5bcdf.chunk.js",
+    "index.html": "/astra/index.html",
+    "main.0946ba87.css.map": "/astra/static/css/main.0946ba87.css.map",
+    "main.30a4a186.js.map": "/astra/static/js/main.30a4a186.js.map",
+    "239.00bb352b.chunk.js.map": "/astra/static/js/239.00bb352b.chunk.js.map",
+    "977.7f5cd88d.chunk.js.map": "/astra/static/js/977.7f5cd88d.chunk.js.map",
+    "732.6cb5bcdf.chunk.js.map": "/astra/static/js/732.6cb5bcdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0946ba87.css",
+    "static/js/main.30a4a186.js"
+  ]
+}
